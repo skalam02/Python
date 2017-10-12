@@ -1,0 +1,3 @@
+([('bookstore_app',
+   '/Users/user/Desktop/python_projects/databases/dist/bookstore_app',
+   'EXECUTABLE')],)
